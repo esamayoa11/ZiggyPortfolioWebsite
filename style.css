@@ -1,5 +1,9 @@
 body {
+<<<<<<< HEAD
   font-family: 'Irish Grover', Courier, monospace;
+=======
+  font-family: Courier, Irish Grover;
+>>>>>>> b514b71793398dbb72fea115dfcdd0b5463c9646
   margin: 0;
   padding: 0;
   background-color: whitesmoke;
